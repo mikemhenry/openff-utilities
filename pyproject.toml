@@ -6,7 +6,7 @@ requires = [
 ]
 
 [project]
-name = "openff-utilities"
+name = "test-demo-openff-utilities"
 description = "A collection of miscellaneous utility functions used throughout the OpenFF stack"
 readme = "README.md"
 license = "MIT"
