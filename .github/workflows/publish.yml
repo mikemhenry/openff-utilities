@@ -125,7 +125,8 @@ jobs:
     runs-on: ubuntu-latest
 
     environment:
-      name: pypi
+      # This should be pypi in production (or something else)
+      name: testpypi
 
     # This is the only job that can request an OIDC identity.
     permissions:
